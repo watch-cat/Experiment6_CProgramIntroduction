@@ -14,7 +14,7 @@
 [第六题](https://github.com/watch-cat/Experiment6_CProgramIntroduction/blob/master/question6.c)
 [第七题](https://github.com/watch-cat/Experiment6_CProgramIntroduction/blob/master/question7.c)
 [第八题](https://github.com/watch-cat/Experiment6_CProgramIntroduction/blob/master/question8.c)
-[第八题](https://github.com/watch-cat/Experiment6_CProgramIntroduction/blob/master/question9.c)
+[第九题](https://github.com/watch-cat/Experiment6_CProgramIntroduction/blob/master/question9.c)
 
 
 
